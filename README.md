@@ -1,4 +1,4 @@
 # pokemon.master
-<html>
-  妹尾　泰成
-</html>
+<b>
+妹尾泰成
+</b>
