@@ -1,2 +1,1 @@
 # pokemon.master
-<b こんにちは>
